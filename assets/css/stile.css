@@ -1,0 +1,133 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65em;
+    color:#393d41;
+    font-size:1.2rem;
+    text-align:center;
+    width:100vw;
+}
+header{
+    background-color:black;
+    width:100vw;
+}
+.logo{
+    width:25%;
+    padding:30px;
+}
+.titolo1{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+    color:#c8e7f0;
+    font-weight:bold;
+    font-size:2.5rem;
+    padding:20px;
+}
+.titolo3{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+    color:#c8e7f0;
+    font-weight:bold;
+    padding:20px;
+}
+.sfondo{
+    background-image: url(../images/banner.jpg);
+}
+.parag{
+    margin-inline:53px;
+}
+button{
+    color:white;
+    background-color:#f04c2f;
+    padding-block:10px;
+    padding-inline:20px;
+    border-radius:5px;
+    margin:30px;
+}
+.titolo-margine-top{
+    margin-top:50px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+    color:#c8e7f0;
+    font-weight:bold;
+    padding:20px;
+}
+.notebook{
+    text-align:center;
+    border-radius:50%;
+    overflow:hidden;
+    width:400px;
+    height:400px;
+    margin:30px;
+}
+.rosso{
+    background-color:#e22d0e;
+    color:white;
+    margin-block:60px;
+    padding-top:10px;
+    padding-bottom:40px;
+}
+.obliquo{
+    font-style:italic;
+}
+#titolo2{ 
+    margin-top:50px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+    font-weight:bold;
+    padding:20px;
+    font-size:2.5rem;
+}
+.cambio-font{
+    font-size:1.3rem;
+    padding-top:20px;
+}
+.maiuscoletto{
+    font-size:0.9rem;
+}
+.uguali{
+    border:1px solid #dee1e3;
+    border-radius:5px;
+    margin-left:10px;
+    margin-right:10px;
+    overflow:hidden;
+    margin-bottom:40px;
+}
+.padding{
+    padding-bottom:50px;
+}
+footer{
+    background-color:#25a2c3;
+}
+.titolo2{
+    margin-top:50px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+    font-weight:bold;
+    padding:20px;
+    font-size:2.5rem;
+    color:white;
+}
+.block{
+    display:block;
+}
+address{
+    color:#c8e7f0;
+}
+address a{
+    color:#c8e7f0;
+}
+.penultimo{
+    padding-bottom:25px;
+}
+.ultimo{
+    color:#c8e7f0;
+    border-top:1px solid white;
+    padding-top:25px;
+    padding-bottom:70px;
+    margin-left:100px;
+    margin-right:100px;
+    font-size:1rem;
+}
+i{
+    color:white;
+}
